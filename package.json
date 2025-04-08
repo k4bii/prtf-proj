@@ -1,11 +1,9 @@
-
-
 {
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://k4bi.github.io/prtf-proj",
+  "homepage": "https://k4bii.github.io/prtf-proj",
 
   "scripts": {
     "dev": "vite",
