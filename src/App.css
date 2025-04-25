@@ -1,14 +1,12 @@
-html, body {
-  margin: 0;
-  padding: 0;
-}
+
 
 #root {
-  max-width: 1480px;
+  width: 100%;
   margin: 0 auto;
-  padding: 1rem 2rem;
   text-align: center;
+  padding: 0.5 rem;
 }
+
 
 .logo {
   height: 6em;
