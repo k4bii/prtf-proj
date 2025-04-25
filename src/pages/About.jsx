@@ -12,7 +12,7 @@ function About() {
         <p 
           className="mt-10 font-vcr-osd-mono text-white text-base leading-relaxed px-4"
         >
-          hello! my name's jakobi, you can call me kobi for short, i'm a current college student 
+          hello! my name's jkobi, you can call me kobi for short, i'm a current college student 
           majoring in computer science at northern illinois university with an emphasis in 
           software development. my interests lie in full stack development and ui/ux design. i'm a
           skilled worker who enjoys devoting their time to furthering their skills and profiency
