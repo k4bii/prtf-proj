@@ -14,7 +14,7 @@ function About() {
         >
           hello! my name's jakobi, you can call me kobi for short, i'm a current college student 
           majoring in computer science at northern illinois university with an emphasis in 
-          software development. my interests lie in full stack development and ui/ux design. i'm a
+          software development. my interests lie in full stack development, data science and ui/ux design. i'm a
           skilled worker who enjoys devoting their time to furthering their skills and profiency
           in their techniques. collaboration is where i thrive as getting feedback from a different 
           set of eyes is always helpful and gets a project to completion. i hope to work with
@@ -26,7 +26,7 @@ function About() {
 
         {/* res button for mobile */}
         <a 
-          href="/McFadden_Resume.pdf" // updated
+          href="/McFadden_Resume_SU25.pdf" // updated
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 px-5 py-3 text-base font-vcr-osd-mono font-bold text-white bg-babyBlue rounded-md shadow-lg hover:bg-gray-500 transition duration-300"
@@ -42,20 +42,20 @@ function About() {
           className="mt-20 font-vcr-osd-mono text-white relative inline-block px-4 py-2 text-lg
           before:absolute before:inset-0 before:rounded-md before:shadow-baby-blue-glow before:animate-pulse"
         >
-          hello! my name's jakobi, you can call me kobi for short, i'm a current college student <br />
-          majoring in computer science at northern illinois university with an emphasis in <br />
-          software development. my interests lie in full stack development and ui/ux design. i'm a <br />
-          skilled worker who enjoys devoting their time to furthering their skills and profiency <br />
-          in their techniques. collaboration is where i thrive as getting feedback from a different <br />
-          set of eyes is always helpful and gets a project to completion. i hope to work with <br />
-          a group of other like-minded individuals and create something worthwhile! <br />
+          hello! my name's jakobi, you can call me kobi for short, i'm a current college student 
+          majoring in computer science at northern illinois university with an emphasis in 
+          software development. my interests lie in full stack development, data science and ui/ux design. i'm a
+          skilled worker who enjoys devoting their time to furthering their skills and profiency
+          in their techniques. collaboration is where i thrive as getting feedback from a different 
+          set of eyes is always helpful and gets a project to completion. i hope to work with
+          a group of other like-minded individuals and create something worthwhile!  <br />
           <br />
           check out my resume below!
         </p>
 
         {/* res button for desktop */}
         <a 
-          href="/McFadden_Resume.pdf" // updated
+          href="/McFadden_Resume_SU25.pdf" // updated
           target="_blank"
           rel="noopener noreferrer"
           className="mt-8 px-6 py-3 text-lg font-vcr-osd-mono font-bold text-white bg-babyBlue rounded-md shadow-lg hover:bg-gray-500 transition duration-300"

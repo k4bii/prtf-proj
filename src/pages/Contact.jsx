@@ -24,7 +24,7 @@ function Contact() {
       >
         {/* name */}
         <div className="mb-4">
-          <label className="block text-white font-bold mb-2">name</label>
+          <label className="block text-white font-vcr-osd-mono font-bold mb-2">name</label>
           <input 
             type="text" 
             name="name" 
@@ -37,7 +37,7 @@ function Contact() {
 
         {/* subject */}
         <div className="mb-4">
-          <label className="block text-white font-bold mb-2">subject</label>
+          <label className="block text-white font-vcr-osd-mono font-bold mb-2">subject</label>
           <input 
             type="text" 
             name="subject" 
@@ -50,7 +50,7 @@ function Contact() {
 
         {/* Message Input */}
         <div className="mb-4">
-          <label className="block text-white font-bold mb-2">message</label>
+          <label className="block text-white font-vcr-osd-mono font-bold mb-2">message</label>
           <textarea 
             name="message" 
             rows="5" 
@@ -64,7 +64,7 @@ function Contact() {
         {/* submit */}
         <button 
           type="submit" 
-          className="w-full py-3 bg-babyBlue hover:bg-gray-500 text-white font-bold rounded-md shadow-md transition duration-300"
+          className="w-full py-3 bg-babyBlue hover:bg-gray-500 text-white font-vcr-osd-mono font-bold rounded-md shadow-md transition duration-300"
         >
           talk 2 ya boi !!
         </button>
