@@ -25,7 +25,7 @@ function About() {
 
         {/* res button for mobile */}
         <a 
-          href="/McFadden_Resume_SU25.pdf" // updated
+          href="/portfolio-resume.pdf" // updated
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 px-5 py-3 text-base font-vcr-osd-mono font-bold text-white bg-babyBlue rounded-md shadow-lg hover:bg-gray-500 transition duration-300"
@@ -54,7 +54,7 @@ function About() {
 
         {/* res button for desktop */}
         <a 
-          href="/McFadden_Resume_SU25.pdf" // updated
+          href="/portfolio-resume.pdf" // updated
           target="_blank"
           rel="noopener noreferrer"
           className="mt-8 px-6 py-3 text-lg font-vcr-osd-mono font-bold text-white bg-babyBlue rounded-md shadow-lg hover:bg-gray-500 transition duration-300"
